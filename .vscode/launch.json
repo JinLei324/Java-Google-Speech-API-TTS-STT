@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Temp_convert.Main",
+            "projectName": "JavaGoogleSpeechRecognizer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Try_Google_Speech_Recognition_Simple.Main",
+            "projectName": "JavaGoogleSpeechRecognizer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Application",
+            "request": "launch",
+            "mainClass": "Alexandra_The_Bot.Application",
+            "projectName": "JavaGoogleSpeechRecognizer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MaryTTSTester",
+            "request": "launch",
+            "mainClass": "Try_MarryTTS_IF_Working.MaryTTSTester",
+            "projectName": "JavaGoogleSpeechRecognizer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TryGoogleSpeechRecognitionSimple",
+            "request": "launch",
+            "mainClass": "Try_Google_Speech_Recognition_Simple.TryGoogleSpeechRecognitionSimple",
+            "projectName": "JavaGoogleSpeechRecognizer"
+        }
+    ]
+}
